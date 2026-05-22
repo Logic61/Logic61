@@ -2,30 +2,29 @@
 
 ![][banner]
 
-<h1 align="center"> Hi , I'm Shane Lorien/ Logic/ ...</h1>
+# 🌊 Hi, I'm Shane Lorien / Logic
 
-I am an undergraduate student @ eecs of Peking University.
+*An undergraduate student @ EECS of Peking University.*
 
-[![][social-bilibili-shield]][social-bilibili-link]
-[![][social-email-shield]][social-email-link]
+[![][social-bilibili-shield]][social-bilibili-link]  &nbsp; [![][social-email-shield]][social-email-link]
 
 ![][split]
 
 </div>
 
-### Tech Stack and Tools
+### 🛠️ Tech Stack and Tools
 
-It shall be more inclusive in the future()
+*It shall be more inclusive in the future...*
 
-| Domain           | Skills                                                                |
-| :--------------- | :------------------------------------------------------------------------------------------------------------- |
-| Backend          | ![][backend-python] ![][backend-cpp]      |
-| Machine Learning | ![][ml-pytorch] ![]                                                                                      |
-| Other            | ![][other-markdown]                                                                                            |
+| Domain | Skills |
+| :--- | :--- |
+| **Backend** | ![][backend-python] ![][backend-cpp] |
+| **Machine Learning** | ![][ml-pytorch] |
+| **Other Tools** | ![][other-markdown] |
 
-### Blogs 
+### ✍️ Blogs 
 
-You can checkout my blog [here](https://logic61.github.io) or a more formal page [here](https://logic61.github.io/MyPage)
+You can checkout my [blog](https://logic61.github.io) or a more [formal page](https://logic61.github.io/MyPage).
 
 <!-- BLOG-POST-LIST:START -->
 - [从幂零变换的结构到Jordan标准型](https://logic61.github.io/MyPage/blog/%E7%BA%BF%E4%BB%A3/%E7%AC%94%E8%AE%B07%E4%BB%8E%E5%B9%82%E9%9B%B6%E5%8F%98%E6%8D%A2%E7%9A%84%E7%BB%93%E6%9E%84%E5%88%B0jordan%E6%A0%87%E5%87%86%E5%9E%8B/)
@@ -39,23 +38,23 @@ You can checkout my blog [here](https://logic61.github.io) or a more formal page
 - [幻梦(胡写的小说)](https://logic61.github.io/2025/06/07/%E5%B9%BB%E6%A2%A6/)
 <!-- BLOG-POST-LIST:END -->
 
-### Notes and Homework
+### 📚 Notes and Homework
 
-I wrote down some thoughts in my blog like above. You may see them in my blog for a better reading experience. Some of my homework is recorded in my github as well.
+I wrote down some thoughts in my blog like above. You may see them in my blog for a better reading experience. Some of my homework is recorded in my GitHub as well.
 
-- [linear algebra](https://github.com/Logic61/Linear-Algebra-2026Spring-PKU)
-- [程设/程序设计实习](https://github.com/Logic61/Chengshe-2026Spring-Pku)
+*   [Linear Algebra 2026 Spring](https://github.com/Logic61/Linear-Algebra-2026Spring-PKU)
+*   [程序设计实习 / 🌶️程设 2026 Spring](https://github.com/Logic61/Chengshe-2026Spring-Pku)
 
-To list but a few.
+*To list but a few.*
 
-### Small Projects
+### 🚀 Small Projects
 
 For fun or homework, I have some small projects.
 
-- [obsidian to hexo](https://github.com/Logic61/Obsidian-to-Hexo)
-- [为PKU而作的课程表promax(程设大作业)](https://github.com/Logic61/PKU-Planner-Vibe-Version)
-- [筛高评洞](https://github.com/Logic61/pku-treehole-filter-by-total-comments)
-- [小赌场](https://github.com/Logic61/Carnival-game-suite)
+*   [Obsidian to Hexo](https://github.com/Logic61/Obsidian-to-Hexo) — *A handy automation tool for blog publishing.*
+*   [PKU Planner Vibe Version](https://github.com/Logic61/PKU-Planner-Vibe-Version) — *为 PKU 而作的课程表 promax (程设大作业).*
+*   [PKU Treehole Filter](https://github.com/Logic61/pku-treehole-filter-by-total-comments) — *按评论总数筛选高评洞.*
+*   [Carnival Game Suite](https://github.com/Logic61/Carnival-game-suite) — *小赌场模拟器.*
 
 <!-- SHIELD GROUP -->
 
