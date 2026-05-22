@@ -4,7 +4,7 @@
 
 # 🌊 Hi, I'm Shane Lorien / Logic
 
-*An undergraduate student @ EECS of Peking University.*
+*An undergraduate student at EECS, Peking University.*
 
 [![][social-bilibili-shield]][social-bilibili-link]  &nbsp; [![][social-email-shield]][social-email-link]
 
@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack and Tools
 
-*It shall be more inclusive in the future...*
+*More to be added...*
 
 | Domain | Skills |
 | :--- | :--- |
@@ -24,7 +24,7 @@
 
 ### ✍️ Blogs 
 
-You can checkout my [blog](https://logic61.github.io) or a more [formal page](https://logic61.github.io/MyPage).
+You can check out my [personal blog](https://logic61.github.io) or view my [formal homepage](https://logic61.github.io/MyPage).
 
 <!-- BLOG-POST-LIST:START -->
 - [从幂零变换的结构到Jordan标准型](https://logic61.github.io/MyPage/blog/%E7%BA%BF%E4%BB%A3/%E7%AC%94%E8%AE%B07%E4%BB%8E%E5%B9%82%E9%9B%B6%E5%8F%98%E6%8D%A2%E7%9A%84%E7%BB%93%E6%9E%84%E5%88%B0jordan%E6%A0%87%E5%87%86%E5%9E%8B/)
@@ -38,14 +38,14 @@ You can checkout my [blog](https://logic61.github.io) or a more [formal page](ht
 - [幻梦(胡写的小说)](https://logic61.github.io/2025/06/07/%E5%B9%BB%E6%A2%A6/)
 <!-- BLOG-POST-LIST:END -->
 
-### 📚 Notes and Homework
+### 📚 Notes and Coursework
 
-I wrote down some thoughts in my blog like above. You may see them in my blog for a better reading experience. Some of my homework is recorded in my GitHub as well.
+I wrote down some thoughts in my blog like above. You may see them in my blog for a better reading experience. Some of my coursework/assignments can also be found in this repository.
 
 *   [Linear Algebra 2026 Spring](https://github.com/Logic61/Linear-Algebra-2026Spring-PKU)
 *   [程序设计实习 / 🌶️程设 2026 Spring](https://github.com/Logic61/Chengshe-2026Spring-Pku)
 
-*To list but a few.*
+*Just to name a few.*
 
 ### 🚀 Small Projects
 
