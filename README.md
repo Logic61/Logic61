@@ -1,91 +1,155 @@
 <div align="center">
 
-![][banner]
+<img src="./assets/banner.jpg" width="100%" alt="banner" />
 
-# 🌊 Hi, I'm Shane Lorien / Logic
+# <img src="https://media.giphy.com/media/mGcN9pDrjBVWFrEAKp/giphy.gif" width="40"> Hi, I'm **Shane Lorien** · *Logic*
 
-*An undergraduate student at EECS, Peking University.*
+<p>
+  <em>Undergraduate @ EECS, Peking University</em><br>
+  <sub>building · writing · occasionally shipping</sub>
+</p>
 
-[![][social-bilibili-shield]][social-bilibili-link]  &nbsp; [![][social-email-shield]][social-email-link]
+<p>
+  <a href="https://space.bilibili.com/668446999"><img src="https://img.shields.io/badge/Bilibili-00AEEC?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:logic.dreemurr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://logic61.github.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://logic61.github.io/MyPage"><img src="https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+</p>
 
-![][split]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&fontSize=42&fontColor=ffffff&fontAlignY=70" width="100%" />
 
 </div>
 
-### 🛠️ Tech Stack and Tools
+---
 
-*More to be added...*
+### 👾 About
 
-| Domain | Skills |
-| :--- | :--- |
-| **Backend** | ![][backend-python] ![][backend-cpp] |
-| **Machine Learning** | ![][ml-pytorch] |
-| **Other Tools** | ![][other-markdown] |
+> *A quiet undergraduate wandering between linear algebra, systems code, and the occasional line of poetry.*
+> Currently exploring **kernel-level GPU programming** (CUDA · Triton · TileLang) and the **mathematical structures** behind it.
 
-### ✍️ Blogs 
+---
 
-You can check out my [personal blog](https://logic61.github.io) or view my [formal homepage](https://logic61.github.io/MyPage).
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,markdown,latex&theme=dark" /><br>
+  <sub><b>Languages</b> · Python · C/C++ · Markdown · LaTeX</sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,cuda&theme=dark" /><br>
+  <sub><b>Machine Learning & GPU</b> · PyTorch · CUDA · Triton · TileLang</sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,obsidian&theme=dark" /><br>
+  <sub><b>Tools</b> · GitHub · VS Code · Obsidian · Hexo</sub>
+</p>
+
+---
+
+### 📊 GitHub in Motion
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Logic61&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  &nbsp;
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Logic61&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logic61&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Logic61&theme=tokyonight&no-frame=true&column=4&margin-w=4" alt="trophies" />
+</p>
+
+---
+
+### ✍️ Latest Writing
+
+<p align="center">
+  <a href="https://logic61.github.io"><img src="https://img.shields.io/badge/Read_on_My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://logic61.github.io/MyPage"><img src="https://img.shields.io/badge/Formal_Homepage-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
 <!-- BLOG-POST-LIST:START -->
-- [从幂零变换的结构到Jordan标准型](https://logic61.github.io/MyPage/blog/%E7%BA%BF%E4%BB%A3/%E7%AC%94%E8%AE%B07%E4%BB%8E%E5%B9%82%E9%9B%B6%E5%8F%98%E6%8D%A2%E7%9A%84%E7%BB%93%E6%9E%84%E5%88%B0jordan%E6%A0%87%E5%87%86%E5%9E%8B/)
-- [任意项级数](https://logic61.github.io/MyPage/blog/%E9%AB%98%E6%95%B0/11%E7%BA%A7%E6%95%B0-ii--%E4%BB%BB%E6%84%8F%E9%A1%B9%E7%BA%A7%E6%95%B0/)
-- [意外出现的范德蒙德](https://logic61.github.io/MyPage/blog/%E6%95%B0%E5%AD%A6%E9%9A%8F%E7%AC%94/%E6%95%B0%E5%AD%A6%E9%9A%8F%E7%AC%947/)
-- [数论初探](https://logic61.github.io/MyPage/blog/%E7%A6%BB%E6%95%A3/1%E6%95%B0%E8%AE%BA/)
-- [杂记——爱弥斯与返校宣讲](https://logic61.github.io/2026/02/06/%E6%9D%82%E8%AE%B0/%E6%9D%82%E8%AE%B023/)
-- [读书札记(边城)](https://logic61.github.io/2024/06/15/%E6%9C%AD%E8%AE%B0/)
-- [雪词](https://logic61.github.io/2025/12/14/%E8%AF%89%E8%A1%B7%E6%83%85%EF%BC%9A%E9%9B%AA/)
-- [临江仙 闻有灯光秀在湖畔](https://logic61.github.io/2025/12/31/%E4%B8%B4%E6%B1%9F%E4%BB%99%EF%BC%8C%E9%97%BB%E6%9C%89%E7%81%AF%E5%85%89%E7%A7%80%E5%9C%A8%E6%B9%96%E7%95%94/)
-- [幻梦(胡写的小说)](https://logic61.github.io/2025/06/07/%E5%B9%BB%E6%A2%A6/)
+- 📐 [从幂零变换的结构到 Jordan 标准型](https://logic61.github.io/MyPage/blog/%E7%BA%BF%E4%BB%A3/%E7%AC%94%E8%AE%B07%E4%BB%8E%E5%B9%82%E9%9B%B6%E5%8F%98%E6%8D%A2%E7%9A%84%E7%BB%93%E6%9E%84%E5%88%B0jordan%E6%A0%87%E5%87%86%E5%9E%8B/)
+- ∞ [任意项级数](https://logic61.github.io/MyPage/blog/%E9%AB%98%E6%95%B0/11%E7%BA%A7%E6%95%B0-ii--%E4%BB%BB%E6%84%8F%E9%A1%B9%E7%BA%A7%E6%95%B0/)
+- 🎲 [意外出现的范德蒙德](https://logic61.github.io/MyPage/blog/%E6%95%B0%E5%AD%A6%E9%9A%8F%E7%AC%94/%E6%95%B0%E5%AD%A6%E9%9A%8F%E7%AC%947/)
+- 🔢 [数论初探](https://logic61.github.io/MyPage/blog/%E7%A6%BB%E6%95%A3/1%E6%95%B0%E8%AE%BA/)
+- 🎒 [杂记——爱弥斯与返校宣讲](https://logic61.github.io/2026/02/06/%E6%9D%82%E8%AE%B0/%E6%9D%82%E8%AE%B023/)
+- 📖 [读书札记(边城)](https://logic61.github.io/2024/06/15/%E6%9C%AD%E8%AE%B0/)
+- ❄️ [雪词](https://logic61.github.io/2025/12/14/%E8%AF%89%E8%A1%B7%E6%83%85%EF%BC%9A%E9%9B%AA/)
+- 🌙 [临江仙 · 闻有灯光秀在湖畔](https://logic61.github.io/2025/12/31/%E4%B8%B4%E6%B1%9F%E4%BB%99%EF%BC%8C%E9%97%BB%E6%9C%89%E7%81%AF%E5%85%89%E7%A7%80%E5%9C%A8%E6%B9%96%E7%95%94/)
+- 💭 [幻梦(胡写的小说)](https://logic61.github.io/2025/06/07/%E5%B9%BB%E6%A2%A6/)
 <!-- BLOG-POST-LIST:END -->
 
-### 📚 Notes and Coursework
+---
 
-I wrote down some thoughts in my blog like above. You may see them in my blog for a better reading experience. Some of my coursework/assignments can also be found in this repository.
+### 📚 Notes & Coursework
 
-*   [Linear Algebra 2026 Spring](https://github.com/Logic61/Linear-Algebra-2026Spring-PKU)
-*   [程序设计实习 / 🌶️程设 2026 Spring](https://github.com/Logic61/Chengshe-2026Spring-Pku)
+Some thoughts live in my blog; some live in repos. Pick your poison.
 
-*Just to name a few.*
+| 📐 Course | 🔗 Repository |
+| :--- | :--- |
+| **Linear Algebra — 2026 Spring** | [Logic61/Linear-Algebra-2026Spring-PKU](https://github.com/Logic61/Linear-Algebra-2026Spring-PKU) |
+| **程序设计实习 🌶️ — 2026 Spring** | [Logic61/Chengshe-2026Spring-Pku](https://github.com/Logic61/Chengshe-2026Spring-Pku) |
+
+<sub>*…and a few more in the blog.*</sub>
+
+---
 
 ### 🚀 Small Projects
 
-For fun or homework, I have some small projects.
+<details>
+<summary><b>🛠️ Obsidian → Hexo</b> &nbsp;<sub><i>— a handy automation tool for blog publishing</i></sub></summary>
+<br>
+<p>A small automation that wires Obsidian vaults into Hexo blogs so I can write in one place and publish in another.<br>
+<a href="https://github.com/Logic61/Obsidian-to-Hexo">→ Repository</a></p>
+</details>
 
-*   [Obsidian to Hexo](https://github.com/Logic61/Obsidian-to-Hexo) — *A handy automation tool for blog publishing.*
-*   [PKU Planner Vibe Version](https://github.com/Logic61/PKU-Planner-Vibe-Version) — *为 PKU 而作的课程表 promax (程设大作业).*
-*   [PKU Treehole Filter](https://github.com/Logic61/pku-treehole-filter-by-total-comments) — *按评论总数筛选高评洞.*
-*   [Carnival Game Suite](https://github.com/Logic61/Carnival-game-suite) — *小赌场模拟器.*
+<details>
+<summary><b>🎓 PKU Planner · Vibe Version</b> &nbsp;<sub><i>— 课程表 promax (程设大作业)</i></sub></summary>
+<br>
+<p>A schedule planner built for PKU students — the <i>vibe</i> edition, originally a course-design assignment.<br>
+<a href="https://github.com/Logic61/PKU-Planner-Vibe-Version">→ Repository</a></p>
+</details>
 
-<!-- SHIELD GROUP -->
+<details>
+<summary><b>🌳 PKU Treehole Filter</b> &nbsp;<sub><i>— 按评论总数筛选高评洞</i></sub></summary>
+<br>
+<p>Filters PKU's treehole by total-comment count, surfacing the highest-traffic posts.<br>
+<a href="https://github.com/Logic61/pku-treehole-filter-by-total-comments">→ Repository</a></p>
+</details>
 
-[banner]: ./assets/banner.jpg
-[social-bilibili-link]: https://space.bilibili.com/668446999
-[social-bilibili-shield]: https://img.shields.io/badge/-Bilibili-black?labelColor=black&logo=bilibili&logoColor=white&style=flat-square
-[split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
-[social-email-link]: mailto:logic.dreemurr@gmail.com
-[social-email-shield]: https://img.shields.io/badge/-Email-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square
-[backend-c]: https://img.shields.io/badge/-C-000?style=flat-square&logoColor=white&logo=c
-[backend-cpp]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logoColor=white&logo=cplusplus
-[backend-mysql]: https://img.shields.io/badge/-MySQL-000?style=flat-square&logoColor=white&logo=mysql
-[backend-nodejs]: https://img.shields.io/badge/-Node.js-000?style=flat-square&logoColor=white&logo=nodedotjs
-[backend-python]: https://img.shields.io/badge/-Python-000?style=flat-square&logoColor=white&logo=python
-[design-ai]: https://img.shields.io/badge/-Illustrator-000?style=flat-square&logoColor=white&logo=adobeillustrator
-[design-figma]: https://img.shields.io/badge/-Figma-000?style=flat-square&logoColor=white&logo=figma
-[design-ps]: https://img.shields.io/badge/-Photoshop-000?style=flat-square&logoColor=white&logo=adobephotoshop
-[frontend-css]: https://img.shields.io/badge/-CSS3-000?style=flat-square&logoColor=white&logo=css
-[frontend-js]: https://img.shields.io/badge/-JavaScript-000?style=flat-square&logoColor=white&logo=javascript
-[frontend-react]: https://img.shields.io/badge/-React-000?style=flat-square&logoColor=white&logo=react
-[frontend-ts]: https://img.shields.io/badge/-TypeScript-000?style=flat-square&logoColor=white&logo=typescript
-[frontend-vue]: https://img.shields.io/badge/-Vue.js-000?style=flat-square&logoColor=white&logo=vuedotjs
-[ide-cursor]: https://img.shields.io/badge/-Cursor-000?style=flat-square&logoColor=white&logo=cursor
-[ide-vim]: https://img.shields.io/badge/-Vim-000?style=flat-square&logoColor=white&logo=vim
-[ide-vscode]: https://img.shields.io/badge/-VS_Code-000?style=flat-square&logoColor=white&logo=visualstudiocode
-[ml-pytorch]: https://img.shields.io/badge/-PyTorch-000?style=flat-square&logoColor=white&logo=pytorch
-[ml-r]: https://img.shields.io/badge/-R-000?style=flat-square&logoColor=white&logo=r
-[ops-docker]: https://img.shields.io/badge/-Docker-000?style=flat-square&logoColor=white&logo=docker
-[ops-nginx]: https://img.shields.io/badge/-Nginx-000?style=flat-square&logoColor=white&logo=nginx
-[ops-vercel]: https://img.shields.io/badge/-Vercel-000?style=flat-square&logoColor=white&logo=vercel
-[ops-github-action]: https://img.shields.io/badge/-GitHub_Actions-000?style=flat-square&logoColor=white&logo=githubactions
-[os-macos]: https://img.shields.io/badge/-macOS-000?style=flat-square&logoColor=white&logo=apple
-[os-linux]: https://img.shields.io/badge/-Linux-000?style=flat-square&logoColor=white&logo=linux
-[other-markdown]: https://img.shields.io/badge/-Markdown-000?style=flat-square&logoColor=white&logo=markdown
+<details>
+<summary><b>🎰 Carnival Game Suite</b> &nbsp;<sub><i>— 小赌场模拟器</i></sub></summary>
+<br>
+<p>A small casino simulator — built for fun, not for gambling advice.<br>
+<a href="https://github.com/Logic61/Carnival-game-suite">→ Repository</a></p>
+</details>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Logic61/Logic61/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Logic61/Logic61/main/github-metrics.svg" alt="metrics" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&fontSize=24&fontColor=ffffff&fontAlignY=80" width="100%" />
+  <br>
+  <sub>⭐ if you like what you see · <a href="https://logic61.github.io">visit the blog</a></sub>
+</div>

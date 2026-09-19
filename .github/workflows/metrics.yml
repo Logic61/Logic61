@@ -1,0 +1,47 @@
+name: GitHub Metrics
+
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+
+  # allows to manually trigger the job
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      issues: read
+      pull-requests: read
+      users: read
+      actions: read
+      discussions: read
+
+    steps:
+      - name: Generate github-metrics.svg
+        uses: lowlighter/metrics@v4
+        with:
+          # Optional: for full functionality, add a PAT as METRICS_TOKEN secret.
+          # Falls back to the default GITHUB_TOKEN if absent.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          template: classic
+          base: header, summary, repositories, achievements
+          plugin: languages
+          plugin_languages: details
+          plugin_languages_details: bytes-added, lines-added
+          plugin_languages_limit: 8
+          setup_cache: false
+          config_timezone: Asia/Shanghai
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+
+      - name: Commit metrics SVG back to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          git diff --staged --quiet || git commit -m "chore(metrics): refresh github-metrics.svg"
+          git push
