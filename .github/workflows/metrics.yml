@@ -16,7 +16,6 @@ jobs:
       contents: write
       issues: read
       pull-requests: read
-      users: read
       actions: read
       discussions: read
 
