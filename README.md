@@ -27,8 +27,8 @@
 
 ### 👾 About
 
-> *A quiet undergraduate wandering between linear algebra, systems code, and the occasional line of poetry.*
-> Currently exploring **kernel-level GPU programming** (CUDA · Triton · TileLang) and the **mathematical structures** behind it.
+> *An undergraduate wandering between math, csai and poetry.*
+> Currently exploring my interests.
 
 ---
 
