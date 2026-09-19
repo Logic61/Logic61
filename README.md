@@ -142,10 +142,6 @@ Some thoughts live in my blog; some live in repos. Pick your poison.
   <img src="https://raw.githubusercontent.com/Logic61/Logic61/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Logic61/Logic61/main/github-metrics.svg" alt="metrics" />
-</p>
-
 ---
 
 <div align="center">
