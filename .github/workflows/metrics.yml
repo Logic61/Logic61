@@ -21,7 +21,7 @@ jobs:
 
     steps:
       - name: Generate github-metrics.svg
-        uses: lowlighter/metrics@v4
+        uses: lowlighter/metrics@v4.4.0
         with:
           # Optional: for full functionality, add a PAT as METRICS_TOKEN secret.
           # Falls back to the default GITHUB_TOKEN if absent.
