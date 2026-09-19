@@ -23,24 +23,23 @@ jobs:
       - name: Generate github-metrics.svg
         uses: lowlighter/metrics@v3.34
         with:
-          # Optional: for full functionality, add a PAT as METRICS_TOKEN secret.
-          # Falls back to the default GITHUB_TOKEN if absent.
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          # NOTE: requires a *classic* PAT stored in METRICS_TOKEN.
+          # Fine-grained tokens (including the default GITHUB_TOKEN) are
+          # not supported because this action uses GraphQL.
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           template: classic
           base: header, summary, repositories, achievements
-          plugin: languages
           plugin_languages: details
           plugin_languages_details: bytes-added, lines-added
           plugin_languages_limit: 8
-          setup_cache: false
           config_timezone: Asia/Shanghai
-          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          committer_message: "chore(metrics): refresh github-metrics.svg"
 
       - name: Commit metrics SVG back to main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-metrics.svg
-          git diff --staged --quiet || git commit -m "chore(metrics): refresh github-metrics.svg"
+          git diff --staged --quiet || git commit -m "chore(metrics): refresh github-metrics.svg" || true
           git push
